@@ -1,3 +1,3 @@
 #Hello, world!
 
-study in Netologi
+study in Netologijj
